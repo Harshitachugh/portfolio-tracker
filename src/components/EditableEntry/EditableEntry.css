@@ -1,0 +1,9 @@
+.editable-entry {
+    display: flex;
+    padding-left: 15px;
+    gap: 10px;
+}
+
+.editable-icon {
+    cursor: pointer;
+}

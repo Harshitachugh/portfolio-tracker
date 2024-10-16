@@ -1,0 +1,29 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.table-container {
+    width: 100%;
+    margin-top: 30px;
+}
+.table-row{
+    display: flex;
+}
+
+.name {
+    flex: 1;
+}
+
+.entry {
+    flex: 1;
+}
+
+.price {
+    flex: 1
+}
+
+.user-holdings {
+    flex: 2
+}
